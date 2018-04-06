@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(April 6, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Jasmine Farooq)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment we accessed and utilized jQuery syntax to display the recipe app.)
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+( https://jazzyf17.github.io/lesson7_jquery/ )
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (jQuery is a cross-browser library, automatically including alternate code where necessary to support different browsers.)
+2. (jQuery provides a shortcut from some of the complicated parts of writing JavaScript.)
+3. (The jQuery animate()method lets you create custom animations.)
 
